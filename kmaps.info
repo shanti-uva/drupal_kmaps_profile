@@ -32,6 +32,7 @@ dependencies[] = user_prefs
 dependencies[] = ajaxsolr
 dependencies[] = fancytree
 dependencies[] = json2
+dependencies[] = kmaps_modules
 dependencies[] = kmaps_navigator
 dependencies[] = kmaps_explorer
 
